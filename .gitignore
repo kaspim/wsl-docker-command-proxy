@@ -1,0 +1,8 @@
+.idea/
+.vscode/
+.fleet/
+.DS_Store/
+.venv/
+build/
+dist/
+*.spec
