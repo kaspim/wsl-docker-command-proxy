@@ -1,0 +1,1 @@
+![JetBrains Integration](assets/readme/jetbrains_integration.png)
